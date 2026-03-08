@@ -71,8 +71,8 @@ gcc cliente.c -o cliente
 
 ### Ejecuciòn
 
-- **servidor.c**
+- **Cliente.c**
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/9bb93e50-fe63-4ee8-86c5-2bab9daaf57f" />
 
-- **cliente.c**
+- **Servidor.c**
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/e5781714-96fe-4e38-b0fc-129c23d5de19" />
