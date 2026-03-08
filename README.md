@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto implementa un sistema básico de comunicación entre un cliente y un servidor utilizando sockets en lenguaje C.
+Esta practica implementa un sistema básico de comunicación entre un cliente y un servidor utilizando sockets en lenguaje C.
 
 El servidor espera conexiones de un cliente y recibe mensajes enviados desde el cliente. El cliente permite al usuario escribir mensajes desde el teclado y enviarlos al servidor.
 
