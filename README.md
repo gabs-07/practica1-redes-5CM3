@@ -51,7 +51,22 @@ Desarrollar una aplicación que demuestre el funcionamiento de la arquitectura c
 
 ### Compilar el cliente y el servidor
 
-Ejecuta el script `compilar.sh` para compilar ambos programas:
+```bash
+gcc servidor.c -o servidor
 
 ```bash
-./compilar.sh
+gcc cliente.c -o cliente
+
+### Ejecuta el script en este orden: 
+
+```bash
+./servidor
+
+```bash
+./cliente
+
+### Ejecuciòn
+
+<img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/9bb93e50-fe63-4ee8-86c5-2bab9daaf57f" />
+
+<img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/e5781714-96fe-4e38-b0fc-129c23d5de19" />
