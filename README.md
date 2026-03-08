@@ -53,17 +53,21 @@ Desarrollar una aplicación que demuestre el funcionamiento de la arquitectura c
 
 ```bash
 gcc servidor.c -o servidor
+```
 
 ```bash
 gcc cliente.c -o cliente
+```
 
 ### Ejecuta el script en este orden: 
 
 ```bash
 ./servidor
+```
 
 ```bash
 ./cliente
+```
 
 ### Ejecuciòn
 
